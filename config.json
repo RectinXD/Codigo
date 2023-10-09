@@ -1,0 +1,5 @@
+{
+   "token": "YOUR_BOT_TOKEN",
+   "prefix": "!",
+   "role": "YOUR_ROLE_ID"
+}
